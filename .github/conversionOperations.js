@@ -79,10 +79,17 @@ console.log((str1 + str3) + str2)
 // Usage of perentheses helps to perform operations more clearly and write a more readable code.
 
 
-
-
-
-
 //                                  COMPARISION OF DATATYPES IN JS                       //
+
+
+// console.log(2 > 3);
+// console.log(2 < 3);
+// console.log(2 == 3);
+// console.log(2 != 3);
+// console.log("2" < 3);
+// console.log("2" == 2); >= This gives the value as true
+// console.log("2" === 2); >= This gives the value as false
+
+// == checks the value only whereas === checks the value as well as datatype before comparing.
 
 
